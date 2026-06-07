@@ -7,6 +7,16 @@ An interactive machine learning web application that predicts personalized healt
 
 ---
 
+## 📺 Application Demo
+
+<div align="center">
+  <img src="demo.png" alt="Workflow Diagram" width="100%" style="max-width:100%;" />
+</div>
+
+<br />
+
+---
+
 ## 🛠️ Core Capabilities
 This project implements a production-grade, end-to-end machine learning pipeline engineered for personalized risk-pricing in the insurance domain:
 * **Dynamic Web Dashboard:** A responsive Streamlit front-end designed to capture demographic, financial, and multi-modal health telemetry.
