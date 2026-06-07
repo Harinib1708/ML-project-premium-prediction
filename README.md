@@ -38,15 +38,15 @@ Below are key insights and visualizations derived during model development. Thes
 
 | 📸 Screenshot | 🔍 Description |
 | :--- | :--- |
-| <img src="Desktop/img/1.png" width="500" alt="Age & Dependents"> | Feature distributions for age and dependents show high concentration in young cohorts (18–25), discrete peaking at 0, and clear skewness. |
-| <img src="Desktop/img/2.png" width="500" alt="Income & Premium"> | Feature distributions for income and premium show bimodal skew, an abrupt drop past 40 Lakhs, and clear transformation needs for the target metric. |
-| <img src="Desktop/img/Screenshot 2026-06-07 at 7.29.21 PM.jpg" width="500" alt="Correlation Heatmap"> | Correlation heatmap matrix isolating linear dependencies, highlighting a critical 0.91 redundancy between income scales and plan premium drivers. |
-| <img src="Desktop/img/Screenshot 2026-06-07 at 7.38.39 PM.jpg" width="500" alt="Scatter Plots"> | Bivariate scatter plots mapping feature anomalies against premium tiers, confirming non-linear step-functions across age and income cuts. |
-| <img src="Desktop/img/Screenshot 2026-06-07 at 7.45.53 PM.png" width="500" alt="Demographic Percentages"> | Categorical percentage charts validating uniform sample balance across gender, unmarried statuses, and heavy regional clusters in the South. |
-| <img src="Desktop/img/Screenshot 2026-06-07 at 7.46.17 PM.png" width="500" alt="Lifestyle Percentages"> | Lifestyle distribution shares highlighting concentration spreads for normal BMI segments, non-smokers, and salaried professional types. |
-| <img src="Desktop/img/Screenshot 2026-06-07 at 7.46.45 PM.png" width="500" alt="Linear Regression Importance"> | Linear regression feature coefficients prioritizing insurance plan and age metrics as primary positive cost weight factors. |
-| <img src="Desktop/img/Screenshot 2026-06-07 at 7.46.54 PM.png" width="500" alt="XGBoost Feature Importance"> | XGBoost feature significance profiles isolating structural variance, focusing heavily on explicit policy choices and age cohort breaks. |
-| <img src="Desktop/img/Screenshot 2026-06-07 at 8.42.03 PM.png" width="500" alt="Distribution of Residuals"> | Residual distribution plot visualizes percentage errors (Diff PCT)—confirming a well-calibrated, zero-centered error model with minimal variance. |
+| <img src="1.png" width="500" alt="Age & Dependents"> | Feature distributions for age and dependents show high concentration in young cohorts (18–25), discrete peaking at 0, and clear skewness. |
+| <img src="2.png" width="500" alt="Income & Premium"> | Feature distributions for income and premium show bimodal skew, an abrupt drop past 40 Lakhs, and clear transformation needs for the target metric. |
+| <img src="Screenshot 2026-06-07 at 7.29.21 PM.jpg" width="500" alt="Correlation Heatmap"> | Correlation heatmap matrix isolating linear dependencies, highlighting a critical 0.91 redundancy between income scales and plan premium drivers. |
+| <img src="Screenshot 2026-06-07 at 7.38.39 PM.jpg" width="500" alt="Scatter Plots"> | Bivariate scatter plots mapping feature anomalies against premium tiers, confirming non-linear step-functions across age and income cuts. |
+| <img src="Screenshot 2026-06-07 at 7.45.53 PM.png" width="500" alt="Demographic Percentages"> | Categorical percentage charts validating uniform sample balance across gender, unmarried statuses, and heavy regional clusters in the South. |
+| <img src="Screenshot 2026-06-07 at 7.46.17 PM.png" width="500" alt="Lifestyle Percentages"> | Lifestyle distribution shares highlighting concentration spreads for normal BMI segments, non-smokers, and salaried professional types. |
+| <img src="Screenshot 2026-06-07 at 7.46.45 PM.png" width="500" alt="Linear Regression Importance"> | Linear regression feature coefficients prioritizing insurance plan and age metrics as primary positive cost weight factors. |
+| <img src="Screenshot 2026-06-07 at 7.46.54 PM.png" width="500" alt="XGBoost Feature Importance"> | XGBoost feature significance profiles isolating structural variance, focusing heavily on explicit policy choices and age cohort breaks. |
+| <img src="Screenshot 2026-06-07 at 8.42.03 PM.png" width="500" alt="Distribution of Residuals"> | Residual distribution plot visualizes percentage errors (Diff PCT)—confirming a well-calibrated, zero-centered error model with minimal variance. |
 
 ## 🛠️ Technologies Used
 
