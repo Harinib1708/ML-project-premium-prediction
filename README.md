@@ -4,7 +4,6 @@ An interactive machine learning web application that predicts personalized healt
 
 ## 🔗 Live Links & Demos
 * **Live Web App:** [Healthcare Premium Prediction on Streamlit](https://premium-insurance-prediction-harini.streamlit.app/)
-* **Repository:** `https://github.com/your-username/healthcare-premium-prediction`
 
 ---
 
@@ -28,7 +27,6 @@ This project implements a production-grade, end-to-end machine learning pipeline
 ---
 
 ## 🎯 Value Proposition
-As the insurance industry shifts away from rigid lookup tables toward data-driven, individualized pricing, this framework highlights crucial MLOps principles:
 * **Stratified Risk Modeling:** Demonstrates how population segmentation resolves underfitting caused by structural breaks in data distributions.
 * **Seamless Deployment:** Transitions smoothly from exploratory Jupyter Notebooks to a live, cloud-hosted web environment.
 * **Clean Architecture:** Balances predictive complexity (XGBoost) with decoupled, highly maintainable engineering patterns.
